@@ -1,19 +1,18 @@
 # MERN Stack Project: Build and Deploy a Real Time Chat App | JWT, Socket.io
 
-![Demo App](https://i.ibb.co/gFSMzKN/1.png)
-
+![demoapp](https://github.com/prathameshpatil7/mern-chat-app/assets/75564009/0eef86d5-3629-4960-9551-36bb35779005)
+![image](https://github.com/prathameshpatil7/mern-chat-app/assets/75564009/1e01bdaa-6b81-4f5a-b4bc-ad3d94909e8a)
+![image](https://github.com/prathameshpatil7/mern-chat-app/assets/75564009/86096ab8-fe50-4bd9-a9e0-5524a5a710d0)
 
 
 Some Features:
 
--   🌟 Tech stack: MERN + Socket.io + TailwindCSS + Daisy UI
+-   🌟 Tech stack: MERN + Socket.io + TailwindCSS
 -   🎃 Authentication && Authorization with JWT
 -   👾 Real-time messaging with Socket.io
 -   🚀 Online user status (Socket.io and React Context)
--   👌 Global state management with Zustand
+-   👌 Global state management
 -   🐞 Error handling both on the server and on the client
--   ⭐ At the end Deployment like a pro for FREE!
--   ⏳ And much more!
 
 ### Setup .env file
 
